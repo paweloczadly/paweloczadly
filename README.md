@@ -1,16 +1,47 @@
-## Hi there 👋
+# Paweł Oczadły
 
-<!--
-**paweloczadly/paweloczadly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Build systems that reduce noise, not just code that works._
 
-Here are some ideas to get you started:
+**Platform Engineer**, **Gradler**. **Blogger**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Areas
+
+Multi-cloud infrastructure as code, Kubernetes, CI/CD, AI-native developer tooling.  
+
+---
+
+## Projects
+
+Some of the open-source work I am focusing on:
+
+| NAME | DESCRIPTION | VERSION |
+| ---- | ----------- | ------- |
+[gradle-springinitializr-plugin](https://github.com/paweloczadly/gradle-springinitializr-plugin) | Production-ready Gradle plugin to bootstrap Spring Boot projects. | [![Latest Release](https://img.shields.io/github/v/release/paweloczadly/gradle-springinitializr-plugin?label=release)](https://github.com/paweloczadly/gradle-springinitializr-plugin/releases/latest) |
+
+---
+
+## Blog
+
+I share technical deep-dives and consulting-ready patterns here:
+
+👉 [oczadly.io](https://oczadly.io)
+
+---
+
+## Support my work
+
+If you find my work useful, consider supporting it:
+
+👉 [Buy me a Coffee](https://buymeacoffee.com/paweloczadly)
+
+---
+
+## Contact
+
+Feel free to reach out:
+
+👉 LinkedIn: [linkedin.com/in/paweloczadly](https://linkedin.com/in/paweloczadly)
+
+👉 Email: [contact@oczadly.io](mailto:contact@oczadly.io)
